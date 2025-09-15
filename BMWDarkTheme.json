@@ -1,0 +1,44 @@
+{
+  "name": "BMWDarkDashboard",
+  "dataColors": [
+    "#42A5F5",
+    "#E91E63",
+    "#00BCD4",
+    "#FFC107",
+    "#9C27B0",
+    "#1976D2",
+    "#90CAF9"
+  ],
+  "background": "#1A1A1A",
+  "foreground": "#E0E0E0",
+  "tableAccent": "#42A5F5",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "*": [{
+          "color": { "solid": { "color": "#E0E0E0" } },
+          "labelColor": { "solid": { "color": "#E0E0E0" } }
+        }],
+        "labels": [{
+          "color": { "solid": { "color": "#E0E0E0" } }
+        }],
+        "categoryLabels": [{
+          "color": { "solid": { "color": "#E0E0E0" } }
+        }],
+        "title": [{
+          "fontColor": { "solid": { "color": "#FFFFFF" } }
+        }]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [{
+          "color": { "solid": { "color": "#E0E0E0" } }
+        }],
+        "calloutValue": [{
+          "color": { "solid": { "color": "#64B5F6" } }
+        }]
+      }
+    }
+  }
+}
