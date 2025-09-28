@@ -10,8 +10,7 @@ A Power BI dashboard analyzing BMW automotive sales, mileage, and pricing trends
 - Sales classification (Low / High)
 
 ## 🖼️ Preview
-![Dashboard Screenshot](<img width="872" height="485" alt="Image" src="https://github.com/user-attachments/assets/8b0ce934-fe55-4e14-98a2-97992226d782" />)
-
+<img width="872" height="485" alt="Image" src="https://github.com/user-attachments/assets/ba4db048-039c-40ff-b73d-e4d00c8dd424" />
 ## ⚙️ Requirements
 - [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
 - Dataset (CSV/Excel) or access to your database
